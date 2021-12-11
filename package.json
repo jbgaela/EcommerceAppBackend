@@ -1,0 +1,19 @@
+{
+  "name": "ecommercebackend",
+  "version": "1.0.0",
+  "description": "MERN Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbgaela/EcommerceAppBackend.git"
+  },
+  "author": "Jean Benedict Gaela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbgaela/EcommerceAppBackend/issues"
+  },
+  "homepage": "https://github.com/jbgaela/EcommerceAppBackend#readme"
+}
