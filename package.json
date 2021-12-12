@@ -4,7 +4,8 @@
   "description": "MERN Stack",
   "main": "server.js",
   "scripts": {
-    "start": "node server"
+    "start": "node server",
+    "server": "nodemon server"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/jbgaela/EcommerceAppBackend#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
   }
 }
